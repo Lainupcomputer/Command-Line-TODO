@@ -1,5 +1,6 @@
 # Command-Line-TODO
-easy to use TODO app in raw python3
+- easy to use TODO app in raw python3
+- no modules needed
 # Installation
 - install python3
 - download this repo and extract 
